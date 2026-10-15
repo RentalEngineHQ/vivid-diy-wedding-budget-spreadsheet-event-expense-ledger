@@ -2,6 +2,8 @@
 
 Vivid DIY Wedding Budget Spreadsheet & Automated Event Expense Ledger Engine
 
+<p align="center"><img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></p>
+
 > ### 🔑 FAST-TRACK SECURE DOWNLOAD
 > Bypass hyper-expensive event planning subscription platforms instantly. Access your permanent, offline dark-mode Excel workbook below:
 > 
